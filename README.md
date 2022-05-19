@@ -16,7 +16,7 @@
 
 ### 👨🏻‍💻 I've dabbled in
 
-Front-end
+#### Front-end
 
 <div>
 <img src="https://img.shields.io/static/v1?style=flat&logo=html5&label=%20&message=HTML5&labelColor=white" alt="HTML" />
@@ -32,8 +32,9 @@ Front-end
 <img src="https://img.shields.io/static/v1?style=flat&logo=styledcomponents&label=%20&message=styled-components&labelColor=white" alt="styled-components" />
 </div>
 
-Back-end
+#### Back-end
 
+<div>
 <img src="https://img.shields.io/static/v1?style=flat&logo=github&label=%20&message=Github&logoColor=black&labelColor=white" alt="Github" />
 <img src="https://img.shields.io/static/v1?style=flat&logo=githubactions&label=%20&message=Github%20Actions&labelColor=white" alt="Github Actions" />
 <img src="https://img.shields.io/static/v1?style=flat&logo=java&label=%20&message=Java&logoColor=red&labelColor=white" alt="Java" />
@@ -45,3 +46,4 @@ Back-end
 <img src="https://img.shields.io/static/v1?style=flat&logo=python&label=%20&message=Python&labelColor=white" alt="Python" />
 <img src="https://img.shields.io/static/v1?style=flat&logo=jest&label=%20&message=Jest&logoColor=black&labelColor=white" alt="Jest" />
 <img src="https://img.shields.io/static/v1?style=flat&logo=typescript&label=%20&message=TypeScript&labelColor=white" alt="TypeScript" />
+</div>
