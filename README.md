@@ -18,6 +18,7 @@
 
 Front-end
 
+<div>
 <img src="https://img.shields.io/static/v1?style=flat&logo=html5&label=%20&message=HTML5&labelColor=white" alt="HTML" />
 <img src="https://img.shields.io/static/v1?style=flat&logo=css3&label=%20&message=CSS3&logoColor=blue&labelColor=white" alt="CSS3" />
 <img src="https://img.shields.io/static/v1?style=flat&logo=sass&label=%20&message=Sass&labelColor=white" alt="Sass" />
@@ -29,6 +30,7 @@ Front-end
 <img src="https://img.shields.io/static/v1?style=flat&logo=reactrouter&label=%20&message=React%20Router&labelColor=white" alt="React Router" />
 <img src="https://img.shields.io/static/v1?style=flat&logo=reactquery&label=%20&message=React%20Query&labelColor=white" alt="React Query" />
 <img src="https://img.shields.io/static/v1?style=flat&logo=styledcomponents&label=%20&message=styled-components&labelColor=white" alt="styled-components" />
+</div>
 
 Back-end
 
