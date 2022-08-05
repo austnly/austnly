@@ -3,7 +3,7 @@
 <hr>
 
 -   🦷 I'm an ex-tooth fixer pivoting to coding, and I love creating new things with code!
--   🌱 I’m currently learning full-stack web dev, including HTML, React, Spring and MySQL.
+-   🌱 I’m a Full-Stack Dev, and I can work with HTML, JavaScript, React, Java, Spring, SQL and more.
 -   💞️ I’m looking to collaborate on anything that can bring together health or personal finance/FIRE and code!
 -   📫 Have a look at my portfolio or reach me at:
 
